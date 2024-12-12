@@ -25,7 +25,6 @@ def download(url):
 download('https://github.com/AllenDowney/ThinkPython/raw/v3/thinkpython.py');
 download('https://github.com/AllenDowney/ThinkPython/raw/v3/diagram.py');
 
-import thinkpython
 
 """# Text Analysis and Generation
 
