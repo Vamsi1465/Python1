@@ -193,6 +193,3 @@
 #         print(j, end = " ")
 #     print() 
 # #Print list in reverse order using a loop
-list = [12, 5, 6, 13, 15]
-for i in list[::-1]:
-    print(i)
